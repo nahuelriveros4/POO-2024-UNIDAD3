@@ -1,5 +1,4 @@
 from classPublicaciones import Publicaciones
-from datetime import datetime
 class CD(Publicaciones):
     __TiempoReproduccion:float
     __Narrador: str
