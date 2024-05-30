@@ -1,0 +1,70 @@
+[
+    {
+        "tipo": "electrico",
+        "marca": "Samsung",
+        "modelo": "S-5000",
+        "pais_fabricacion": "China",
+        "precio_lista": 50000.0,
+        "forma_pago": "cuotas",
+        "cantidad_cuotas": 12,
+        "promocion": "No",
+        "potencia_maxima": "501 watts"
+    },
+    {
+        "tipo": "electrico",
+        "marca": "MarcaA",
+        "modelo": "ModeloE1",
+        "pais_fabricacion": "Argentina",
+        "precio_lista": 15000,
+        "forma_pago": "contado",
+        "cantidad_cuotas": 1,
+        "promocion": "Si",
+        "potencia_maxima": "500 watts"
+    },
+    {
+        "tipo": "gas natural",
+        "marca": "MarcaB",
+        "modelo": "ModeloG1",
+        "pais_fabricacion": "Brasil",
+        "precio_lista": 20000,
+        "forma_pago": "cuotas",
+        "cantidad_cuotas": 12,
+        "promocion": "No",
+        "matricula": "GN01-00001-06-057",
+        "calorias": "4000 kilocalorias/m3"
+    },
+    {
+        "tipo": "electrico",
+        "marca": "MarcaC",
+        "modelo": "ModeloE2",
+        "pais_fabricacion": "China",
+        "precio_lista": 18000,
+        "forma_pago": "cuotas",
+        "cantidad_cuotas": 6,
+        "promocion": "No",
+        "potencia_maxima": "600 watts"
+    },
+    {
+        "tipo": "gas natural",
+        "marca": "MarcaD",
+        "modelo": "ModeloG2",
+        "pais_fabricacion": "Mexico",
+        "precio_lista": 25000,
+        "forma_pago": "contado",
+        "cantidad_cuotas": 1,
+        "promocion": "Si",
+        "matricula": "GN02-00002-06-058",
+        "calorias": "5000 kilocalorias/m3"
+    },
+    {
+        "tipo": "electrico",
+        "marca": "MarcaA",
+        "modelo": "ModeloE545",
+        "pais_fabricacion": "Argentina",
+        "precio_lista": 25000,
+        "forma_pago": "contado",
+        "cantidad_cuotas": 1,
+        "promocion": "Si",
+        "potencia_maxima": "5010 watts"
+    }
+]
